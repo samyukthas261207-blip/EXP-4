@@ -55,11 +55,17 @@ TABULAR COLUMN
 
 Rectifier with filter
 <img width="1073" height="475" alt="image" src="https://github.com/user-attachments/assets/27a61272-5dfb-4405-a611-395c854b7418" />
+
 waveform
+
 <img width="862" height="501" alt="image" src="https://github.com/user-attachments/assets/518bed8c-81e5-45da-a5d2-984eeb344307" />
+
 model graph
+
 <img width="574" height="332" alt="image" src="https://github.com/user-attachments/assets/ac4bbfb9-e9d2-4231-8cf0-61e0078b77e8" />
+
 result:
+
  Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
 
 
